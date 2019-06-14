@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Osm Kotlin</string>
+
+    <string name="search">Search</string>
+    <string name="details">Details</string>
+    <string name="reverse">Reverse</string>
+    <string name="searchTeste">Strada Pictor Alexandru Romano 17 Bukarest</string>
+    <string name="TesteDetailsW">W</string>
+    <string name="testeDetailType">OSM Type</string>
+    <string name="testeDetailsId">38210407</string>
+    <string name="osm_id">OSM Id</string>
+    <string name="lat">Lat</string>
+    <string name="testeLat">-34.44076</string>
+    <string name="lon">Lon</string>
+    <string name="testeLon">-58.70521</string>
+</resources>
